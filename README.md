@@ -13,8 +13,3 @@ This application was also Dockerized and uploaded to the docker hub. You can see
 Finally, the app uses a MongoDB to store data.
 
 ![image](https://github.com/thegera4/FastAPI-Python/assets/84020433/3ef26948-07f3-4aad-9ad1-dc576da34dd4)
-
-
-The app was deployed in railway as a docker container, fast and easy!
-
-![image](https://github.com/thegera4/FastAPI-Python/assets/84020433/09425608-b812-4bff-82ce-ae9372aa7383)
